@@ -1,2 +1,5 @@
-package com.hubberspot.dsalgo.barch;public class NewBranch {
+package com.hubberspot.dsalgo.barch;
+
+public class NewBranch {
+
 }

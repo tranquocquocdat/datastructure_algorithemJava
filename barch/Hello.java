@@ -1,2 +1,4 @@
-package com.hubberspot.dsalgo.barch;public class Hello {
+package com.hubberspot.dsalgo.barch;
+
+public class Hello {
 }
